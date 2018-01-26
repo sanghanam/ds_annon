@@ -56,3 +56,6 @@ PRIMARY KEY(id)
 3. DB Table
  - In FeedbackManager.java
   - Replace all database names in the sql query. (ex, annon_advanced --> something)
+
+
+> This annotation page is supported by the Exobrain-WiseKB Project (http://exobrain.kr/)
